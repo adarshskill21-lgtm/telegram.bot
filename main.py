@@ -18,7 +18,7 @@ from tinydb import TinyDB, where
 
 load_dotenv()
 # Telegram bot token
-TOKEN = os.getenv("8300668869:AAE53m4X2lQTmxoOJEkfzfShOpiJqfb_VGk")
+TOKEN = os.getenv("8929921523:AAHrXreznkXevG2Xozn6zyHUma4tQ2uelMk")
 # Channel to auto-post images to
 channel_id = os.getenv("TG_CHANNEL_ID")
 # Defune owner username
