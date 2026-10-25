@@ -22,7 +22,7 @@ TOKEN = os.getenv("8300668869:AAE53m4X2lQTmxoOJEkfzfShOpiJqfb_VGk")
 # Channel to auto-post images to
 channel_id = os.getenv("TG_CHANNEL_ID")
 # Defune owner username
-owner_username = os.getenv("TG_OWNER_USERNAME")
+owner_username = os.getenv("8528378970")
 # When to post images from queue
 posting_hour = os.getenv("POSTING_TIME_HOUR")
 posting_hour = 13 if posting_hour is None else posting_hour
